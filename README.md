@@ -349,8 +349,8 @@ stic reasoning
 ## Quick Start
 
 ```bash
-git clone https://github.com/v0ntr3n/pipeline-summary.git
-cd pipeline-summary
+git clone https://github.com/v0ntr3n/supercloud-telemetry-pipeline.git
+cd supercloud-telemetry-pipeline
 
 # Execute the end-to-end data preparation & telemetry fusion pipeline
 bash run_pipeline.sh
